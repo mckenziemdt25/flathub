@@ -43,3 +43,4 @@ modules:
       - type: git
         url: https://github.com/mckenziemdt25/noblehyve-browser.git
         tag: v1.0.0
+        commit: ff4c95def14a8a7e97124d8467c8641ddd9656fc
